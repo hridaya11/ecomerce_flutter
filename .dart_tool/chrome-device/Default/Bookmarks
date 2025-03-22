@@ -1,0 +1,352 @@
+{
+   "checksum": "fcc093810c5096da2af79933b56c1da2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13269394904368495",
+            "date_last_used": "13366550997492942",
+            "guid": "fbdecae4-6e1a-4749-85d4-75f4255f3fc7",
+            "id": "13",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13269394904369906",
+            "date_last_used": "13375614937895167",
+            "guid": "92873d63-8b8b-4e25-9f0d-e495bbb95afc",
+            "id": "14",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13341395764732193",
+            "date_last_used": "13383122799247234",
+            "guid": "4ae7ffcc-e7c6-4926-8943-cff244c528c5",
+            "id": "15",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13341498004303705",
+            "date_last_used": "0",
+            "guid": "382f7581-8ad8-4a9e-b360-c2344aa69d37",
+            "id": "16",
+            "name": "Notion",
+            "type": "url",
+            "url": "https://www.notion.so/Class-Test-ec98edd01a0444e9b47b42cd973aa828"
+         }, {
+            "date_added": "13345559718901173",
+            "date_last_used": "13384196757282741",
+            "guid": "90809ab2-b595-435f-a24b-710d80cd46d2",
+            "id": "17",
+            "name": "WhatsApp Web",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13345992138608077",
+            "date_last_used": "13384011314369280",
+            "guid": "1da29e41-7f5b-43dc-8b56-0ea463d64143",
+            "id": "18",
+            "name": "linkden",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+         }, {
+            "date_added": "13367866333718117",
+            "date_last_used": "0",
+            "guid": "51eff2b9-41e2-4a7e-92e1-1b4697ff2fb0",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vercel",
+            "type": "url",
+            "url": "https://vercel.com/hridaya-patils-projects"
+         }, {
+            "date_added": "13367940229922398",
+            "date_last_used": "13371631740289465",
+            "guid": "31bb5b04-c9bb-4438-8d6b-7e1831d3990d",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13375340707894855",
+            "date_last_used": "13384369179311436",
+            "guid": "a2a53a08-1cd2-4e58-a9db-055eb0258102",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/3/home"
+         }, {
+            "date_added": "13375601143511510",
+            "date_last_used": "13379059728634029",
+            "guid": "350d1816-64cc-4ac0-a2ef-5d8be8c351db",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SPIT mail",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/3/#inbox"
+         }, {
+            "date_added": "13383587400528367",
+            "date_last_used": "0",
+            "guid": "460ac0de-b141-4259-978b-702d024907d3",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepSeek",
+            "type": "url",
+            "url": "https://chat.deepseek.com/"
+         }, {
+            "date_added": "13343731811604676",
+            "date_last_used": "13382614008763097",
+            "guid": "9a85864f-4d0c-4009-8583-448a1fece09c",
+            "id": "24",
+            "name": "Text to Handwriting",
+            "type": "url",
+            "url": "https://saurabhdaware.github.io/text-to-handwriting/"
+         }, {
+            "date_added": "13383597699149797",
+            "date_last_used": "0",
+            "guid": "b96398cc-8823-4957-a03c-db7f4861c30d",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "moodle",
+            "type": "url",
+            "url": "https://moodle.spit.ac.in/course/view.php?id=2135"
+         }, {
+            "date_added": "13377030114350645",
+            "date_last_used": "0",
+            "guid": "49630f30-2136-4874-9093-1525a7ab6d3f",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vangu by amrohan - StackBlitz",
+            "type": "url",
+            "url": "https://stackblitz.com/@amrohan/collections/vangu"
+         }, {
+            "date_added": "13379059166739228",
+            "date_last_used": "0",
+            "guid": "395de23b-8e3f-4072-ac11-76bcb40433a9",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "EduPlusCampus",
+            "type": "url",
+            "url": "https://myspit.edupluscampus.com/"
+         }, {
+            "date_added": "13379367210503418",
+            "date_last_used": "0",
+            "guid": "4d6154e9-5b34-4975-8e77-b17ad7aa49ee",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PRACTICALS",
+            "type": "url",
+            "url": "https://zenz.notion.site/PRACTICALS-10ca44f45d5280db923fd379bd42118d"
+         }, {
+            "date_added": "13379658264943199",
+            "date_last_used": "0",
+            "guid": "1d76e2e6-69ca-4e2d-8edf-9badc7bd573e",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "type": "url",
+            "url": "edge://newtab/"
+         }, {
+            "children": [ {
+               "date_added": "13381829151175620",
+               "date_last_used": "0",
+               "guid": "6d89a8d9-13b6-491d-a30a-15a64d3cf283",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Automation 360 Community Edition Thank You | Automation Anywhere",
+               "type": "url",
+               "url": "https://www.automationanywhere.com/products/automation-360-community-edition-thank-you"
+            }, {
+               "date_added": "13382085615985289",
+               "date_last_used": "0",
+               "guid": "34255d9a-0a05-45e6-bda2-21ea2e6d95dd",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Home | Control Room | Automation Anywhere",
+               "type": "url",
+               "url": "https://community.cloud.automationanywhere.digital/#/home"
+            }, {
+               "date_added": "13382087644307911",
+               "date_last_used": "0",
+               "guid": "10b12562-a073-4945-89c6-8a6426217bd9",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Login",
+               "type": "url",
+               "url": "https://community.cloud.automationanywhere.digital/#/login"
+            } ],
+            "date_added": "13381829172014985",
+            "date_last_used": "0",
+            "date_modified": "13382087644307911",
+            "guid": "d0abec9a-284a-41c0-b8ab-38e48215646a",
+            "id": "30",
+            "name": "RPA",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13252762857423780",
+               "date_last_used": "0",
+               "guid": "59e834eb-cf5a-4e85-abff-223e7fda9316",
+               "id": "35",
+               "name": "ASUS Homepage",
+               "type": "url",
+               "url": "http://www.asus.com/"
+            }, {
+               "date_added": "13252762857428198",
+               "date_last_used": "0",
+               "guid": "cb7fd29a-7e7d-49ec-b537-6bd35a184fa4",
+               "id": "36",
+               "name": "ASUS Member",
+               "type": "url",
+               "url": "https://account.asus.com/"
+            } ],
+            "date_added": "13382076220010531",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9eb2013f-a3be-432a-b3aa-8b32fff3f638",
+            "id": "34",
+            "name": "ASUS E-Service",
+            "type": "folder"
+         }, {
+            "date_added": "13383286890149054",
+            "date_last_used": "0",
+            "guid": "4a414748-fcce-4a21-b47c-83114cdd9c92",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Realtime Colors",
+            "type": "url",
+            "url": "https://www.realtimecolors.com/?colors=161c0d-f8fbf4-4b651a-c4e87d-88c115&fonts=Inter-Inter"
+         }, {
+            "date_added": "13384500618443960",
+            "date_last_used": "0",
+            "guid": "4092f5fd-8119-4b8f-94b9-18c6f80a8a65",
+            "id": "41",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13384500618443072",
+            "date_last_used": "0",
+            "guid": "174a44fd-bce1-40e2-b8ae-0cd91d7f4136",
+            "id": "40",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "date_added": "13384497748853674",
+            "date_last_used": "0",
+            "guid": "94b8d070-3d05-4076-81ee-107b169a1e5d",
+            "id": "7",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13384497748853044",
+            "date_last_used": "0",
+            "guid": "4ef4e245-712e-4623-aad2-347a7eb7d533",
+            "id": "6",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         } ],
+         "date_added": "13384497747768117",
+         "date_last_used": "0",
+         "date_modified": "13384500628769391",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340895884813842",
+            "date_last_used": "0",
+            "guid": "8e616930-badd-484f-a2a4-3e52af7867fe",
+            "id": "8",
+            "name": "Anix",
+            "type": "url",
+            "url": "https://anix.to/home"
+         }, {
+            "date_added": "13341327944766588",
+            "date_last_used": "0",
+            "guid": "f45856ca-3acb-496c-93c7-dd7e9ee2dc4d",
+            "id": "9",
+            "name": "Cloud Quest",
+            "type": "url",
+            "url": "https://cloudquest.skillbuilder.aws/?refresh=true"
+         }, {
+            "date_added": "13345901870942492",
+            "date_last_used": "0",
+            "guid": "0e53ceaf-209c-47e2-b36c-35d9dcb28a88",
+            "id": "10",
+            "name": "C++",
+            "type": "url",
+            "url": "https://amrohan.notion.site/Assignment-7470fa8e88de40cfbe762b7a804b8eb8"
+         }, {
+            "date_added": "13345992155136071",
+            "date_last_used": "0",
+            "guid": "be5f3d2f-69c4-47a0-80e0-6d48e2def836",
+            "id": "11",
+            "name": "Credly",
+            "type": "url",
+            "url": "https://www.credly.com/organizations/amazon-web-services/badges"
+         }, {
+            "date_added": "13348840049277136",
+            "date_last_used": "0",
+            "guid": "5868ea93-167b-4cff-b657-740e68886efb",
+            "id": "12",
+            "name": "Intern, DevOps Engineer in | Careers at India",
+            "type": "url",
+            "url": "https://careers-gta-cactusglobal.icims.com/jobs/1464/intern%2c-devops-engineer/job?mode=submit_apply&from=assessment"
+         } ],
+         "date_added": "13384497747768120",
+         "date_last_used": "0",
+         "date_modified": "13348840049277136",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13384497747768121",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

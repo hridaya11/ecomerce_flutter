@@ -1,0 +1,454 @@
+{
+   "checksum": "719f942add98819978432d8d55b063fa",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13269394904368495",
+            "date_last_used": "13366550997492942",
+            "guid": "fbdecae4-6e1a-4749-85d4-75f4255f3fc7",
+            "id": "13",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 0
+         }, {
+            "date_added": "13269394904369906",
+            "date_last_used": "13375614937895167",
+            "guid": "92873d63-8b8b-4e25-9f0d-e495bbb95afc",
+            "id": "14",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 6
+         }, {
+            "date_added": "13341395764732193",
+            "date_last_used": "13383122799247234",
+            "guid": "4ae7ffcc-e7c6-4926-8943-cff244c528c5",
+            "id": "15",
+            "name": "ChatGPT",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.openai.com/",
+            "visit_count": 76
+         }, {
+            "date_added": "13341498004303705",
+            "date_last_used": "0",
+            "guid": "382f7581-8ad8-4a9e-b360-c2344aa69d37",
+            "id": "16",
+            "name": "Notion",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.notion.so/Class-Test-ec98edd01a0444e9b47b42cd973aa828",
+            "visit_count": 0
+         }, {
+            "date_added": "13345559718901173",
+            "date_last_used": "13384196757282741",
+            "guid": "90809ab2-b595-435f-a24b-710d80cd46d2",
+            "id": "17",
+            "name": "WhatsApp Web",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://web.whatsapp.com/",
+            "visit_count": 78
+         }, {
+            "date_added": "13345992138608077",
+            "date_last_used": "13384011314369280",
+            "guid": "1da29e41-7f5b-43dc-8b56-0ea463d64143",
+            "id": "18",
+            "name": "linkden",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit",
+            "visit_count": 8
+         }, {
+            "date_added": "13367866333718117",
+            "date_last_used": "0",
+            "guid": "51eff2b9-41e2-4a7e-92e1-1b4697ff2fb0",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vercel",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://vercel.com/hridaya-patils-projects",
+            "visit_count": 0
+         }, {
+            "date_added": "13367940229922398",
+            "date_last_used": "13371631740289465",
+            "guid": "31bb5b04-c9bb-4438-8d6b-7e1831d3990d",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13375340707894855",
+            "date_last_used": "13384369179311436",
+            "guid": "a2a53a08-1cd2-4e58-a9db-055eb0258102",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Drive",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/3/home",
+            "visit_count": 93
+         }, {
+            "date_added": "13375601143511510",
+            "date_last_used": "13379059728634029",
+            "guid": "350d1816-64cc-4ac0-a2ef-5d8be8c351db",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "SPIT mail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/3/#inbox",
+            "visit_count": 36
+         }, {
+            "date_added": "13383587400528367",
+            "date_last_used": "0",
+            "guid": "460ac0de-b141-4259-978b-702d024907d3",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "DeepSeek",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://chat.deepseek.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13343731811604676",
+            "date_last_used": "13382614008763097",
+            "guid": "9a85864f-4d0c-4009-8583-448a1fece09c",
+            "id": "24",
+            "name": "Text to Handwriting",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://saurabhdaware.github.io/text-to-handwriting/",
+            "visit_count": 2
+         }, {
+            "date_added": "13383597699149797",
+            "date_last_used": "0",
+            "guid": "b96398cc-8823-4957-a03c-db7f4861c30d",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "moodle",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://moodle.spit.ac.in/course/view.php?id=2135",
+            "visit_count": 1
+         }, {
+            "date_added": "13377030114350645",
+            "date_last_used": "0",
+            "guid": "49630f30-2136-4874-9093-1525a7ab6d3f",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vangu by amrohan - StackBlitz",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://stackblitz.com/@amrohan/collections/vangu",
+            "visit_count": 1
+         }, {
+            "date_added": "13379059166739228",
+            "date_last_used": "0",
+            "guid": "395de23b-8e3f-4072-ac11-76bcb40433a9",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "EduPlusCampus",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://myspit.edupluscampus.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13379367210503418",
+            "date_last_used": "0",
+            "guid": "4d6154e9-5b34-4975-8e77-b17ad7aa49ee",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "PRACTICALS",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://zenz.notion.site/PRACTICALS-10ca44f45d5280db923fd379bd42118d",
+            "visit_count": 1
+         }, {
+            "date_added": "13379658264943199",
+            "date_last_used": "0",
+            "guid": "1d76e2e6-69ca-4e2d-8edf-9badc7bd573e",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New tab",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "edge://newtab/",
+            "visit_count": 1
+         }, {
+            "children": [ {
+               "date_added": "13381829151175620",
+               "date_last_used": "0",
+               "guid": "6d89a8d9-13b6-491d-a30a-15a64d3cf283",
+               "id": "31",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Automation 360 Community Edition Thank You | Automation Anywhere",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://www.automationanywhere.com/products/automation-360-community-edition-thank-you",
+               "visit_count": 1
+            }, {
+               "date_added": "13382085615985289",
+               "date_last_used": "0",
+               "guid": "34255d9a-0a05-45e6-bda2-21ea2e6d95dd",
+               "id": "32",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Home | Control Room | Automation Anywhere",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://community.cloud.automationanywhere.digital/#/home",
+               "visit_count": 1
+            }, {
+               "date_added": "13382087644307911",
+               "date_last_used": "0",
+               "guid": "10b12562-a073-4945-89c6-8a6426217bd9",
+               "id": "33",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Login",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://community.cloud.automationanywhere.digital/#/login",
+               "visit_count": 1
+            } ],
+            "date_added": "13381829172014985",
+            "date_last_used": "0",
+            "date_modified": "13382087644307911",
+            "guid": "d0abec9a-284a-41c0-b8ab-38e48215646a",
+            "id": "30",
+            "name": "RPA",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13252762857423780",
+               "date_last_used": "0",
+               "guid": "59e834eb-cf5a-4e85-abff-223e7fda9316",
+               "id": "35",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "http://www.asus.com/",
+               "visit_count": 0
+            }, {
+               "date_added": "13252762857428198",
+               "date_last_used": "0",
+               "guid": "cb7fd29a-7e7d-49ec-b537-6bd35a184fa4",
+               "id": "36",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://account.asus.com/",
+               "visit_count": 0
+            } ],
+            "date_added": "13382076220010531",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9eb2013f-a3be-432a-b3aa-8b32fff3f638",
+            "id": "34",
+            "name": "ASUS E-Service",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13383286890149054",
+            "date_last_used": "0",
+            "guid": "4a414748-fcce-4a21-b47c-83114cdd9c92",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Realtime Colors",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.realtimecolors.com/?colors=161c0d-f8fbf4-4b651a-c4e87d-88c115&fonts=Inter-Inter",
+            "visit_count": 1
+         }, {
+            "date_added": "13384500618443960",
+            "date_last_used": "0",
+            "guid": "4092f5fd-8119-4b8f-94b9-18c6f80a8a65",
+            "id": "41",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13384500618443072",
+            "date_last_used": "0",
+            "guid": "174a44fd-bce1-40e2-b8ae-0cd91d7f4136",
+            "id": "40",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13384497748853674",
+            "date_last_used": "0",
+            "guid": "94b8d070-3d05-4076-81ee-107b169a1e5d",
+            "id": "7",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13384497748853044",
+            "date_last_used": "0",
+            "guid": "4ef4e245-712e-4623-aad2-347a7eb7d533",
+            "id": "6",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         } ],
+         "date_added": "13384497747768117",
+         "date_last_used": "0",
+         "date_modified": "13384500628769391",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13340895884813842",
+            "date_last_used": "0",
+            "guid": "8e616930-badd-484f-a2a4-3e52af7867fe",
+            "id": "8",
+            "name": "Anix",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://anix.to/home",
+            "visit_count": 0
+         }, {
+            "date_added": "13341327944766588",
+            "date_last_used": "0",
+            "guid": "f45856ca-3acb-496c-93c7-dd7e9ee2dc4d",
+            "id": "9",
+            "name": "Cloud Quest",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://cloudquest.skillbuilder.aws/?refresh=true",
+            "visit_count": 0
+         }, {
+            "date_added": "13345901870942492",
+            "date_last_used": "0",
+            "guid": "0e53ceaf-209c-47e2-b36c-35d9dcb28a88",
+            "id": "10",
+            "name": "C++",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://amrohan.notion.site/Assignment-7470fa8e88de40cfbe762b7a804b8eb8",
+            "visit_count": 0
+         }, {
+            "date_added": "13345992155136071",
+            "date_last_used": "0",
+            "guid": "be5f3d2f-69c4-47a0-80e0-6d48e2def836",
+            "id": "11",
+            "name": "Credly",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.credly.com/organizations/amazon-web-services/badges",
+            "visit_count": 0
+         }, {
+            "date_added": "13348840049277136",
+            "date_last_used": "0",
+            "guid": "5868ea93-167b-4cff-b657-740e68886efb",
+            "id": "12",
+            "name": "Intern, DevOps Engineer in | Careers at India",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://careers-gta-cactusglobal.icims.com/jobs/1464/intern%2c-devops-engineer/job?mode=submit_apply&from=assessment",
+            "visit_count": 0
+         } ],
+         "date_added": "13384497747768120",
+         "date_last_used": "0",
+         "date_modified": "13348840049277136",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13384497747768121",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCO9wuyGVAQAAEgAqGFFMaS81Zk1ra3diR3RuRUlIQjZhM0E9PUgDoAYMErUBCCISsAEKHERZay80aXpaSmIxblJ3cTQzdWFMRURyTmNmMD0SJDllYjIwMTNmLWEzYmUtNDMyYS1iM2FhLThiMzJmZmYzZjYzOBgAIAAoADCCxr+JyTI4kse/ickyQJLHv4nJMkocajVHZ2FKQnM2eWIwOXNzNGpmWlR4TGE3c3dFPVonIiX/////AAAABLxYZ1RPWjVYYzZxeTVvVkVHeUlyZ3hkVXArM2M9ZQAAAADCPgJgABKtAQghEqgBChxXZ1I0eVQ4M3JEdnV6bksxNHhNTi9VOUw2SW89EiQxMGIxMjU2Mi1hMDczLTQ5NDUtODljNi04YTY0MjYyMTdiZDkYACAAKAAwh9T5jskyOKny+I7JMkCp8viOyTJKHE13cE44Y0t0M3BRRVpZbFAxNEhteTlwMHdwbz1aHyId7npKdmx1bGh0a0pxWlkyYVlPN3pwWG80b0xMdz1lp28QA8I+AmAFEqwBCB8SpwEKHGIxZTFHQ3F2N0Z0dFUvLzVZRC9qbGQrL3hQaz0SJDZkODlhOGQ5LTEzYjYtNDkxZC1hMzBhLTE1YTY0ZDNjZjI4MxgAIAAoADDm99iTyDI4itjXk8gyQIrY15PIMkocaWt6S1BEOWV3TldxRW90NDJOMmVWWFRiNkxvPVoeIhxyeXhNYlVRYTZvbnMvNEMycmxFMlpVYjJPN1E9ZadvEAPCPgJgBRK0AQgeEq8BChxieUJlUG9KaXRzS1RZbkFJUGcxbWd0MHduTzQ9EiRkMGFiZWM5YS0yODRhLTQxYzAtYjhhYi0zOGU0ODIxNTY0NmEYACAAKAAw5ffYk8gyOJz52JPIMkCc+diTyDJKHEROQmJIbWFPME1MZ3FNT0V2a2lwQzlDazQyUT1aJiIk/////wAAAAR5MUhJSXI4UmZGQW5OZUtEc3J1SUhuOTlkZ0U9ZQAAAADCPgJgABKsAQgjEqcBChw5L3Z5RExndmhlUTNISzBvV2s5WnlDYjBieXc9EiQ1OWU4MzRlYi1jZjVhLTRlODUtYWJmZi0yMjNlN2ZkYTkzMTYYACAAKAAwg8a/ickyOLDHv4nJMkCwx7+JyTJKHGo1MTBOUEZkdVViN1FRVTI3cGVmSGVWZ0dzQT1aHiIcSVQ2VHRMQjg3K240QzlJVkxqWk1pWmJrQkxVPWUAAAAAwj4CYAUStAEIHRKvAQocMHY1WjJRZHBLdWlRT3h5WlFuWnNKb0hYeGRzPRIkMWQ3NmUyZTYtNjljYS00ZTJkLThlZGYtOWJhZGM3YmQ1NzNlGAAgACgAMO7h7Y3SMjijrcOIwDJA7uHtjdIyShxpcGNIUExLMWVKY2FXSjdWZVZrZE9jcFExaTg9WiYiJP////8AAAAEM0dUbkxoS0dCaXY0djVKbnZGK3RIT1grOVc0PWXYr7ACwj4CYAUSsAEIHBKrAQoceW9QWnhxU2doS3hQNy9pUHBuVG9RMkdud0hnPRIkNGQ2MTU0ZTktNWIzNC00OTc1LThlNzctYjE3YWQ3YWE0OWVlGAAgAigCMOaLxo3SMjjp6t79vjJAwcrFjdIyShwyODNQNUh4VU1VcGd2ZnZqeW9Qam5kN1doKzg9WiIiIP////4vSDVXdWtJZmljTHRVZitHUE0vcnB2OWo5WlE9ZczySR7CPgJgBRK1AQglErABChxSbGcwajBFdEhDSnNhNXVJU1ljblc0eDZLVWs9EiQ0YTQxNDc0OC1mY2NlLTRhMjEtYjQ3Yy04MzExNGNkZDljOTIYACACKAIw5IvGjdIyOLqD5crNMkDCysWN0jJKHEJIakpiYjZGS0NGbUJRd2VzdWVJMXJhYVd6QT1aJyIl/////wAAAATeczNpTExrWE5HTXphTGdCaVVKTXg3NWdjcG9NPWVQ8XcBwj4CYAUSrQEIIBKoAQocaHdBTFBQRkRLR2NINGJSMEg5Q1lGZmtzNFVRPRIkMzQyNTVkOWEtMGEwNS00NWU2LWJkYTItMjFlYTJlNmQ5NWRkGAAgACgAMLmm/Y3JMjjNh/2NyTJAzYf9jckyShxETmp6L0dnaTc2UGJmMnZQd0w3RHpYdGhadUk9Wh8iHblraW5OQzdJT1ZvSnVoK29taFoybVVwODJKeTQ9ZadvEAPCPgJgBRKuAQgOEqkBChxqaWFQcSt6U1RwZ3JYR0lBSmZ6VldlK1JwWDQ9EiQ5Mjg3M2Q2My04YjhiLTRlMjUtOWYwZC1lNDk1YmJiOTVhZmMYACAAKAAwoJSXjNIyON7l8JDaMUDe5fCQ2jFKHFRWRGxUemFHb2o0L2lML1hpWGtTeHZMQUlBaz1aICIe//s4TVVCcUhmY3JqWjBaSWV4Mys5Rmx4REFGYWs9Zf2cjErCPgJgBRKwAQgZEqsBChx6cWxxNkFZYysrU1RBb3lsQjhMOW5WbU8xU2M9EiRiOTYzOThjYy04ODIzLTQ5NTctYTAzYy1kYjdmNDg2MWMzMGQYACACKAIw44vGjdIyOK6m/97OMkC/ysWN0jJKHEJyRXRHV0k1L3ZSdXlubDNyRHkwSFVLWnh6QT1aIiIg////83hleHBLVUpIbW5yWlM5N1ZtYytwL2QwSUx6MD1l55kTdMI+AmAFEq0BCAsSqAEKHHppbGRsaDJYWVFoaHNXVnVmS2M0UUZnQ1BsRT0SJGJlNWYzZDJmLTY5YzQtNDdhMC04MGUwLTZkNDhlMmRlZjgzNhgAIAAoADDT8di6iTI47ubwkNoxQO7m8JDaMUoceFEySkk3STJua2hmYnFlOGFjZzM3Z1l2ZHR3PVofIh3UamNaR215ZFlFaDVEK2cwUUJycmtSVXVXODJjPWXsZWL8wj4CYAUSsAEIGhKrAQocdE5wNjQ1UUt1bFRiY0pQejZNOXFJcU5nUnhJPRIkNDk2MzBmMzAtMjEzNi00ODc0LTkwOTMtMTUyNWE3YWI2ZDNmGAAgAigCMOKLxo3SMjiT3amjtjJAwMrFjdIyShwxM0lsM3BldTZYTjl3OWdwdS93dDE5ZGhBMXM9WiIiIP////swc3BSUlNRbkxWZlZMbnVZRjNJU0xCZnRoZjQ9ZRnzU7DCPgJgBRKwAQgVEqsBChxpY0xKdDVXVFRYOFdGQkFIL21qQlNrWm9xVWc9EiRhMmE1M2EwOC0xY2QyLTRlNTgtYTlkYi0wNTVlYjAyNTgxMDIYACACKAIw4YvGjdIyOKfE4P2vMkC9ysWN0jJKHFpqa1dEUkhTcEVVK2RqbHh5bXdnM1poUDlWOD1aIiIg////tlhCMUU0elRyZUxub1FUZldpUmNWUVNQWUhvdz1l+pHe28I+AmAFEq8BCBQSqgEKHGZvZkMvalJEZG5oMzcvRnNpWk1KeUNSWUxCYz0SJDMxYmI1YjA0LWM5YmItNDQzOC04ZDZiLTdlMTgzMWQzOTkwZBgAIAIoAjDli8aN0jI46Kf3tJQyQLzKxY3SMkocSVNLbGp3RHYxQWZkZFFLalZkZWNTK2IzZTdrPVohIh////1TZE5WbEVKaFYySVlZMVgzWWZkaDdiVVp3ZVU9ZcjzP7vCPgJgBRKtAQgKEqgBChw4a0w0cmdvVTI1WXFJczZ3cjNlbnFjTHpqUlE9EiQwZTUzY2VhZi0yMDljLTQ3ZTItYjM2Yy0zNWQ5ZGNiMjhhODgYACAAKAAw1/HYuokyONLm8JDaMUDS5vCQ2jFKHHFNTVBUVEp6UW95Q3ZaZWtrUlVMTG1PTUkwND1aHyIdqUZ2SWtEeW1qcVUvSFhaaTROOUpUck91NEFBcz1l2nX+H8I+AmAFErABCBgSqwEKHGhxSWwzaGZVa2pzbkVXZWF5dHdzdUMySzdGOD0SJDlhODU4NjRmLTRkMGMtNDAwOS04NTgzLTQ0OGExZmVjZTA5YxgAIAIoAjDgi8aN0jI4zefwkNoxQL/KxY3SMkoccmR5bEJPODVPSEdWdjJPU0lPczlxVUhUeVY4PVoiIiD////rZWVJWGtDYTh5Qk9KdzVROVljRVI5L04vakRJPWW6/1jywj4CYAUSrwEIExKqAQocTW5xV21RbkY0RFpEdDQ3UTJDYzRtd09pZFZzPRIkNTFlZmYyYjktNDFlMi00YTdlLTkyZTEtMWI0Njk3ZmYyZmIwGAAgACgAMJWUl4zSMjif+tiRlDJAn/rYkZQyShx1VEp4NkVzZjZOVFFJVUhueEVZaDdROU5LTDQ9WiEiH///+mtFK3QrRFgwdEIvaFhSaHlyekFIaUpZZXBXUT1lJlCMOsI+AmAFEq4BCBASqQEKHExtTlhpdFVGUDg5OWtPcUtiRUhYV1gwWG9hYz0SJDM4MmY3NTgxLThhZDgtNGE5ZS1iMzYwLWMyMzQ0YWE2OWQzNxgAIAAoADCXlJeM0jI46efwkNoxQOnn8JDaMUocYWZpQmR2QjI5amtIK0xUczdjbjY2RDJ6RHlVPVogIh7//1hLT2lnd1drZ2xGQzF3ampjelc0UUU4ODRTTT1lzPJJHsI+AmAFEq8BCBISqgEKHG1YY3M5czBXbElpc3I5ME9DZnovbFpHNnIwRT0SJDFkYTI5ZTQxLTdmNWItNDNkYy04YjU2LTBlYTQ2M2Q2NDE0MxgAIAAoADCelJeM0jI4+eXwkNoxQPnl8JDaMUocYUQ4RVVXTkFJYnNEaWlVYVFObjB0cWV1WUpnPVohIh////VLb0FNRTl2Smsva2tGQldOcDJUY1grUjIwa0E9ZUmjTMvCPgJgBRKsAQgIEqcBChxKQS9rSzFQVkl1cVhTNEFaMmovRDhIQXFOckU9EiQ4ZTYxNjkzMC1iYWRkLTQ4NGYtYTJhNC0zZTUyYWY3ODY3ZmUYACAAKAAw1vHYuokyOKjl8JDaMUCo5fCQ2jFKHHZMT0N5Wkp2WklCRnRWY2NCRGkzUmR6NVNBOD1aHiIcMHdCZUVlcFBNMmthM21pdkIzSjFhaDF1Ti9jPWVQ7et3wj4CYAUSsAEIFhKrAQocN2ZVVWUrZy9rOWZxU3ZKMkwyZXVRU3JkaTQ0PRIkMzUwZDE4MTYtNjRjYy00YWMwLWEyZWYtNWQ4YmU4YzM1MWRiGAAgAigCMN+Lxo3SMjiroPj5sDJAvcrFjdIyShx4c0FoTU9PWEJjUy9FNlJwcHdhckJCbEdXRzQ9WiIiIP///9sxUUs5TjNCbllZSFVJRjBmUTRzVlJYamp6TU09ZZs9hbbCPgJgBRKuAQgNEqkBChxBTnd3UTYxK2tkOS8wK05VTzJSRWdaQVNXN3M9EiRmYmRlY2FlNC02ZTFhLTQ3NDktODVkNC03NWY0MjU1ZjNmYzcYACAAKAAwkpSXjNIyOIrn8JDaMUCK5/CQ2jFKHGJCQW5BeDRtYlRMWXFxRjBaZVh5MUd2V3JKWT1aICIe//daa1FHa0IxMWZSd2RuK1hCSFVBSStxdFowRkk9ZZs9hbbCPgJgBRKwAQgbEqsBChxoMUdFbzhQc1VDeXc5WWZ6VFd5MElUQjhjelk9EiQzOTVkZTIzYi04ZTNmLTQwNzItYWMxMS03NmJjYjQwNDMzYTkYACACKAIw3ovGjdIyOLDy7uq9MkDAysWN0jJKHERlcmlDb0UyaVJINERsdGl6V3lTZC9uRFQ1MD1aIiIg/////W9ZWCthNXlkd1dNV0lkLzBmV3kvN01UUkh5ND1lTzP8U8I+AmAFEq8BCBESqgEKHFZ5SmRLMFNpNHpQR1ZDdEZDK1RNV0RSZFNlZz0SJDkwODA5YWIyLWI1OTUtNDM1Zi1hMjRiLTcxMGQ4MGNkNDZkMhgAIAAoADCPlJeM0jI4sOfwkNoxQLDn8JDaMUocc1VreUpqVExLNVNhM2FKa05Db0ViYlVxbzZjPVohIh///+tIbmI1T3VQcldOaTBIOW1ld1o5a3FoYWR0bk09ZakYXjzCPgJgBRKtAQgMEqgBChxNYkxZQUw2ck5XSFlQMGI2aFFlOEJuaGlqZUU9EiQ1ODY4ZWE5My0xNjdiLTRjZmYtYjY1Ny03NDBlNjg4ODZlZmIYACAAKAAw1PHYuokyOI3l8JDaMUCN5fCQ2jFKHDlYMVVpSTlxNzU2V0NjQnVzbkJyNVBGb25hUT1aHyId6mhqL3JPdGRXeXVvMlJUUStqNTc4WnlHcmRsaz1lnnVQ2cI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDEyMDE5ODk3LTUzZjQtNWNmYi05MWE0LTU1NDQ1NTVjYWE1YRgAIAAoADDWz9afjS849ZjAuYAwQPWYwLmAMEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKwAQgXEqsBChx6cm93cWtEdm5LMXlDeTQydkFxMDk5V1V6OTg9EiQ0NjBhYzBkZS1iMTQxLTQyNTktOTc4Yi03MDJkMDI0OTA3ZDMYACACKAIw3YvGjdIyOJeNi9rOMkC+ysWN0jJKHFQwNklCb3ZIOTVNYUZ6M2xtY01pN0ZsSk9IST1aIiIg////42Y1V3lLS0hsQXlnQkdISkVSNTQ4LzBMc2NGZz1l36qlMMI+AmAFEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDdjODI0YWFiLTdlYzItNTFjMS05N2I2LTQ5MTU1OTc2Y2VhORgAIAAoADDbz9afjS84w5nAuYAwQMOZwLmAMEoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgABKsAQgJEqcBChw5MTZWSGp3MUw0QitucTI3YXYwU25ER1lNKzQ9EiRmNDU4NTZjYS0zYWNiLTQ5NmMtOTNjNy1kZDdlOWVlMmRjNGQYACAAKAAw1fHYuokyOIXo8JDaMUCF6PCQ2jFKHFdOVFRyY3JvY3ZHUHFHZG8rTU93VTNOU1Zsaz1aHiIcU3BMcFc4L0dzelVEVGs5bG1TeFl4aXI1eHhFPWWkBSFFwj4CYAUSrgEIDxKpAQocVGoyK01MYzU3VDgrMG0zc2FBaFBaaTA0Q0VVPRIkNGFlN2ZmY2MtZTdjNi00OTI2LTg5NDMtY2ZmMjQ0YzUyOGM1GAAgACgAMJCUl4zSMjix5vCQ2jFAsebwkNoxShxYeUdlZSt4V00zeFJYc3Y2cDVTVENOeUI3MjA9WiAiHv//ODRQYnB4SWRoaDAyZUFzUmVmcXcrQXpucDVBPWU4FCTFwj4CYAUSrAEIJBKnAQocMzZoSVcySmtrRzhraExQK1VQcWdvR3RCT09NPRIkY2I3ZmQyOWEtN2U3ZC00OWVjLWI1MzctNmJkMzVhMTg0ZmE0GAAgACgAMITGv4nJMjjLx7+JyTJAy8e/ickyShxwQ2dKTUhnZkRGY0dLOE4xTzdwWUY0OEs5Rjg9Wh4iHFhEdlF6c3VPcnJ5c01sWHNFK2k2RlRlMGtvWT1lAAAAAMI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJDE0MDcwMWZjLWUyZGEtNTY0MS1iMzY0LWVkOGM3MDc0NGQzYxgAIAAoADDXz9afjS84hZnAuYAwQIWZwLmAMEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
