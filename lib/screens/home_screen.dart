@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../data/products_data.dart';
-import '../models/product.dart';
 import 'product_detail_screen.dart';
 
 class HomeScreen extends StatelessWidget {
